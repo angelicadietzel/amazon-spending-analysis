@@ -12,6 +12,6 @@ The purpose of this project is to analyze personal data to understand my Amazon 
 - matplotlib
 
 ## Data Sets
-- A [data set](https://www.kaggle.com/lava18/google-play-store-apps) containing my Amazon Orders and Shipments data.
+- A [data set](https://github.com/angelicadietzel/amazon-spending-analysis/blob/main/amazon-analysis/amazon_orders.csv) containing my Amazon Orders and Shipments data.
 
 
